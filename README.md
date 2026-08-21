@@ -156,6 +156,3 @@ def support_qa(question: str, user_id: str, session_id: str) -> str:
 - **Metadata** — key-value dict for analytics: `{"user_id": "alice", "session": "s1"}`
 - Set via `get_current_run_tree()` inside any `@traceable` function
 
-### create_agent
-`create_agent` (from `langchain.agents`) is the current standard agent entry point as of LangChain 1.0+. It builds a ReAct agent on top of the LangGraph runtime, replacing the older `AgentExecutor` and `langgraph.prebuilt.create_react_agent`.
-
