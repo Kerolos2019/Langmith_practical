@@ -2,18 +2,6 @@
 
 
 
----
-
-## What This Module Covers
-
-| File | Purpose |
-|------|---------|
-| `langsmith_basics.ipynb` | 5 experiments — auto-tracing, @traceable, RAG, multi-tool agent |
-| `app.py` | Streamlit chat app — 5-node sequential document intelligence agent |
-| `agent/` | Modular LangGraph agent (state · tools · nodes · graph) |
-| `data/llm_production_guide.txt` | Local knowledge base — LLM security & deployment guide |
-
----
 
 ## What is LangSmith?
 
