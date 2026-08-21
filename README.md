@@ -1,6 +1,6 @@
 # LangSmith — LLM Tracing & Observability
 
-**Module 4 · Instructor: Divesh · Production-Grade LLM Engineering**
+
 
 ---
 
